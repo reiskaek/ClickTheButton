@@ -3,6 +3,9 @@ Click the Button! - A fun and interesting game made using only Python and Tkinte
 © THEOP05, 2021 - 2023
 
 
+-----------------------------
+
+
 THIS IS AN ARCHIVE OF MY FIRST PYTHON PROJECT.
 
 I LOST THE ACCOUNT. 
